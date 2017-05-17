@@ -1,0 +1,5 @@
+~/data/DATABASES/roads/NissanData/Images/fc2_save_2012-11-09-132140-3574.tif
+~/data/DATABASES/roads/NissanData/Images/fc2_save_2012-11-09-132140-3652.tif
+~/data/DATABASES/roads/NissanData/Images/fc2_save_2012-11-09-132140-3695.tif
+~/data/DATABASES/roads/FleaData/Images/2012-10-23-172436-1985-NoShadowSequence2.tif
+~/data/DATABASES/roads/FleaData/Images/2012-10-23-172436-2013-NoShadowSequence2.tif

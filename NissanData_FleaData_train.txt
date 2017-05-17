@@ -1,0 +1,11 @@
+~/data/DATABASES/roads/NissanData/Images/fc2_save9mm_2012-11-09-151403-0085.tif
+~/data/DATABASES/roads/NissanData/Images/fc2_save9mm_2012-11-09-151403-2558.tif
+~/data/DATABASES/roads/NissanData/Images/fc2_save9mm_2012-11-09-151403-2680.tif
+~/data/DATABASES/roads/NissanData/Images/fc2_save9mm_2012-11-09-151403-2853.tif
+~/data/DATABASES/roads/FleaData/Images/2012-10-23-145512-1742-NoShadowSequence3.tif
+~/data/DATABASES/roads/FleaData/Images/2012-10-23-145512-1783-SmallTreeShadows.tif
+~/data/DATABASES/roads/FleaData/Images/2012-10-23-145512-1784-SmallTreeShadows.tif
+~/data/DATABASES/roads/FleaData/Images/2012-10-23-145512-1793-SmallTreeShadows.tif
+~/data/DATABASES/roads/FleaData/Images/2012-10-23-172436-1911-ToughTrees2.tif
+~/data/DATABASES/roads/FleaData/Images/2012-10-23-172436-1985-NoShadowSequence2.tif
+~/data/DATABASES/roads/FleaData/Images/2012-10-23-172436-2013-NoShadowSequence2.tif
